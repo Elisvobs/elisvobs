@@ -234,6 +234,13 @@ a:hover {
   margin-bottom: 0;
 }
 
+.my-widget {
+  --bg-color: #111;
+  --header-bg-color: #222;
+  --badge-bg-color: #333;
+  --badge-text-color: #fff;
+}
+
 .list-ico {
   line-height: 2;
 }
