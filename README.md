@@ -1,13 +1,20 @@
 # Elisvobs
  **Version 1.0.0**
- A portfolio for a local mobile app developer.
+ A portfolio for a mobile applications developer.
 
 ## Web Libraries
 
-- 
-- 
-- 
-- 
+- animate
+- bootstrap
+- counterup
+- easing
+- font-awesome
+- ionicons
+- jquery
+- lightbox
+- owlcarousel
+- popper
+- typed
 
 ## Web Description
 
@@ -22,12 +29,12 @@
 <img src="" width="300"/>
 
 ## Contributors
-- Elias Svoba <elias@infixustech.co.zw>
+- Elias Svoba <elisvobs@live.com>
 
 
 ## License & Copyright
 
-Copyright (c) 2020 Elias Svoba, Infixus Tech
+Copyright (c) 2020 Elisvobs
 
 Me, the author of the project, allow you to check the code as a reference.
 
