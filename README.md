@@ -1,28 +1,19 @@
 # Elisvobs
  **Version 1.0.0**
- A portfolio for a mobile applications developer.
 
-## Web Libraries
+## Topics
 
-- animate
-- bootstrap
-- counterup
-- easing
-- font-awesome
-- ionicons
-- jquery
-- lightbox
-- owlcarousel
-- popper
-- typed
+- bootstrap5
+- html5
+- javascript
 
-## Web Description
+## Website
 
-- 
-- 
-- 
-- 
--  
+- https://elisvobs.github.io
+
+## Description
+
+- A portfolio for a mobile applications developer.
 
 ## Screenshot
 <img src="" width="300"/>
