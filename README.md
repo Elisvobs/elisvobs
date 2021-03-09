@@ -9,7 +9,7 @@
 
 ## Website
 
-- https://elisvobs.github.io
+- https://elisvobs.github.io/elisvobs/
 
 ## Description
 
