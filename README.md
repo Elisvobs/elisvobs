@@ -1,24 +1,23 @@
 Howdy there 👋
-I am Elias, a Mobile App Developer that builds apps for businesses and individuals. Flutter is my go to framework when making mobile applications, however I am quite proficient in Android app development using Java. I am a graduate of the MuzindaHub Digital Skills program and currently waiting for results on Google Associate Android Developer Certification. You can find me at most coding-related events.
+I am Elias, an App Developer crafting innovative apps that simplifies life. Flutter is my go to framework when making mobile apps, but I am equally proficient using Java. I am skilled through an alternative route of Mastery by doing. You can find me near food & captivating peers at most coding-related events or in the field making sure my crops are healthy.
 
-+ 👨‍💻 I’m currently working for [Infixus] (https://infixus.co.zw) 
++ 👨‍💻 I’m currently looking for remote & freelance opportunities  
 
-+ 🌱 I’m currently perfecting my mobile apps skills
++ 🌱 I’m perfecting my apps development skills by learning software architecture & principles of software engineering
 
-+ 👯 I’m looking for cool projects
++ 👯 I’m looking for cool projects that offers creative freedom & where i can manage my flow from start to end
 
 <<<<<<< HEAD
-+ 🤔 I’m looking for help with graphic design especially logo and app icons
++ 🤔 I love meeting with brilliant minds & sharpen each other while exploring opportunities for collabs, mentorship or pair programming  
 =======
 - https://elisvobs.github.io/elisvobs/
 >>>>>>> 37959bd20ffa4ee8568073c2966168021b76b31c
 
 + 💬 Ask me about starting in Java or Flutter
 
-+ 📫 How to reach me: [Twitter](https://twitter.com/Elisvobs) or [WhatsApp](https://api.whatsapp.com/send?phone=263777175291)
++ 📫 How to reach me: [Twitter](https://twitter.com/Elisvobs) or [WhatsApp](https://api.whatsapp.com/send?phone=263717720731)
 
 <<<<<<< HEAD
-+ ⚡ Fun fact: I love farming
 =======
 ## Screenshot
 <img src="" width="300"/>
@@ -30,7 +29,7 @@ I am Elias, a Mobile App Developer that builds apps for businesses and individua
 
 ## License & Copyright
 
-Copyright (c) 2020 Elisvobs
+Copyright (c) 2024 Elisvobs
 
 Me, the author of the project, allow you to check the code as a reference.
 
