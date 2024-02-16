@@ -34,7 +34,7 @@
       getWidthFrom: '',
       widthFromWrapper: true, // works only when .getWidthFrom is empty
       responsiveWidth: false,
-      zIndex: 'inherit'
+      zIndex: 'auto'
     },
     $window = $(window),
     $document = $(document),
@@ -79,8 +79,7 @@
           if (s.currentTop !== newTop) {
             var newWidth;
             if (s.getWidthFrom) {
-                padding =  s.stickyElement.innerWidth() - s.stickyElement.width();
-                newWidth = $(s.getWidthFrom).width() - padding || null;
+                newWidth = $(s.getWidthFrom).width() || null;
             } else if (s.widthFromWrapper) {
                 newWidth = s.stickyWrapper.width();
             }
